@@ -1,0 +1,16 @@
+home_team,away_team,home_goals,away_goals,home_xg,away_xg,home_goals_conceded,away_goals_conceded,home_xg_conceded,away_xg_conceded,home_games_played,away_games_played,home_h2h,away_h2h,home_form,away_form,home_strength,away_strength,home_position,away_position,home_injuries,away_injuries,home_penalties_committed,away_penalties_committed,home_penalties_conceded,away_penalties_conceded,home_possession,away_possession,result
+Manchester City,Arsenal,3,1,2.8,0.9,1,3,0.8,2.7,25,24,WWDWW,LWDWW,WWDWW,WDWLW,92.5,88.3,1,2,1,2,0.12,0.15,0.08,0.18,65.2,34.8,H
+Liverpool,Newcastle,2,0,2.3,0.6,0,2,0.5,2.1,24,25,WDWWW,LLDWL,DWWWD,LLDWL,89.7,75.4,3,7,0,3,0.14,0.22,0.11,0.25,62.7,37.3,H
+Arsenal,Chelsea,2,2,1.8,1.9,2,2,1.7,1.8,23,23,DWWLD,WDWLD,WDWLD,DWWLD,88.3,85.6,2,4,1,1,0.18,0.16,0.15,0.14,54.3,45.7,D
+Tottenham,Manchester United,1,2,1.5,2.1,2,1,2.2,1.4,24,24,LWDLL,WWDLW,LWDLL,DWWLW,82.4,84.8,5,6,2,1,0.21,0.19,0.22,0.17,48.6,51.4,A
+Brighton,Aston Villa,3,0,2.6,0.4,0,3,0.5,2.5,25,25,WWWDW,LLLWD,WWWDW,LLLDW,79.8,77.2,8,9,1,2,0.16,0.24,0.13,0.28,58.9,41.1,H
+West Ham,Wolves,1,1,1.2,1.3,1,1,1.1,1.2,23,24,DLDWD,WDLDW,DLDWD,DLWWD,76.5,75.8,10,11,3,2,0.19,0.21,0.17,0.19,49.8,50.2,D
+Crystal Palace,Brentford,2,1,1.7,1.2,1,2,1.1,1.8,24,23,WLDWW,DLLWD,WLDWW,DLLWD,74.2,73.5,12,13,1,2,0.23,0.25,0.21,0.24,51.2,48.8,H
+Leeds,Everton,0,2,0.8,2.2,2,0,2.3,0.7,25,25,LLLWD,WDWWL,LLLWD,DWWWL,71.8,72.4,15,14,2,1,0.27,0.20,0.29,0.18,45.6,54.4,A
+Burnley,Southampton,1,1,1.1,1.2,1,1,1.3,1.1,24,24,DLDLD,DLDLD,DLDLD,DLDLD,69.5,70.2,16,17,2,2,0.25,0.26,0.23,0.25,47.8,52.2,D
+Norwich,Watford,0,1,0.7,1.4,1,0,1.5,0.6,23,23,LLLLD,WDLLL,LLLLD,WDLLL,67.2,68.4,19,18,3,2,0.28,0.27,0.30,0.26,44.5,55.5,A
+Manchester City,Liverpool,2,2,1.9,2.0,2,2,1.8,1.9,26,25,DWWWD,DWWWD,DWWWD,DWWWD,92.5,89.7,1,3,1,1,0.11,0.13,0.09,0.12,52.4,47.6,D
+Arsenal,Tottenham,3,1,2.7,1.1,1,3,1.0,2.8,24,25,WWDWW,LLDWL,WWDWW,LLDWL,88.3,82.4,2,5,2,2,0.17,0.20,0.14,0.21,59.8,40.2,H
+Chelsea,Brighton,2,0,1.8,0.5,0,2,0.6,1.7,24,26,WDWLD,LLWDD,WDWLD,LLWDD,85.6,79.8,4,8,1,3,0.15,0.17,0.13,0.16,57.3,42.7,H
+Manchester United,West Ham,1,0,1.4,0.6,0,1,0.7,1.3,25,24,WWDLW,DLDWD,WWDLW,DLDWD,84.8,76.5,6,10,2,1,0.18,0.20,0.16,0.18,56.4,43.6,H
+Newcastle,Crystal Palace,2,1,1.9,1.1,1,2,1.2,1.8,26,25,WDLLL,WLDWW,WDLLL,WLDWW,75.4,74.2,7,12,2,2,0.21,0.24,0.20,0.22,53.2,46.8,H
